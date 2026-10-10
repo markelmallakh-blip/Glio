@@ -1,0 +1,28 @@
+4:"$Sreact.fragment"
+5:"$Sreact.suspense"
+6:"/Glio/_next/static/chunks/2o_wroj4wc6b2.js"
+7:"/Glio/_next/static/chunks/269hrz3p4dfq3.js"
+8:"/Glio/_next/static/chunks/3tix05wu5b8_3.js"
+9:"/Glio/_next/static/chunks/0tnad-58yu7pu.js"
+a:"/Glio/_next/static/chunks/26s4hx2ubuith.js"
+b:"/Glio/_next/static/chunks/2__m9nihmylqc.js"
+c:"/Glio/_next/static/chunks/2-yptdbc9_58x.js"
+d:I[85007,["$6","$7","$8","$9","$a","$b","$c"],"BookingFlow"]
+e:I[97367,["$6","$7","$8","$9"],"OutletBoundary"]
+12:"ViewportBoundary"
+13:I[97367,["$6","$7","$8","$9"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$6","$7","$8","$9"],"$14"]
+16:I[27201,["$6","$7","$8","$9"],"IconMark"]
+11:X
+3:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$4","c",{"children":[["$","$5",null,{"fallback":["$","div",null,{"aria-busy":"true","aria-label":"Loading booking","children":[["$","div",null,{"className":"bg-ink py-12 md:py-16","children":["$","div",null,{"className":"mx-auto w-full px-4 sm:px-6 lg:px-10 xl:px-15 max-w-(--container-site) flex flex-col items-center gap-6","children":[["$","div",null,{"className":"h-6 w-40 animate-pulse rounded-full bg-white/10"}],["$","div",null,{"className":"h-14 w-full max-w-xl animate-pulse rounded-2xl bg-white/10"}],["$","div",null,{"className":"h-2 w-full max-w-[64rem] rounded-full bg-white/20"}]]}]}],["$","div",null,{"className":"bg-surface py-10","children":["$","div",null,{"className":"mx-auto w-full px-4 sm:px-6 lg:px-10 xl:px-15 max-w-(--container-site) grid gap-6 lg:grid-cols-[1fr_25rem]","children":[["$","div",null,{"className":"h-[32rem] animate-pulse rounded-[1.25rem] bg-white"}],["$","div",null,{"className":"h-64 animate-pulse rounded-[1.25rem] bg-white"}]]}]}]]}],"children":["$","$Ld",null,{}]}],[["$","script","script-0",{"src":"/Glio/_next/static/chunks/2__m9nihmylqc.js","async":true}],["$","script","script-1",{"src":"/Glio/_next/static/chunks/2-yptdbc9_58x.js","async":true}]],["$","$Le",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$11"}}]]
+2:[["children",{"s":"booking","c":"$Q3"}]]
+1:[["children",{"s":"(booking)","c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":20,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#2b2b2b"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Book a Visit | GLIO"}],["$","meta","1",{"name":"description","content":"Book GLIO mobile car care in three steps: choose your cars and a package for each, pick a location and time, then pay securely."}],["$","meta","2",{"name":"application-name","content":"GLIO"}],["$","meta","3",{"name":"keywords","content":"mobile car wash Cairo,car detailing Cairo,car care at home,GLIO,car polishing Egypt"}],["$","link","4",{"rel":"canonical","href":"https://markelmallakh-blip.github.io/Glio/booking/"}],["$","meta","5",{"property":"og:title","content":"Book a Visit | GLIO"}],["$","meta","6",{"property":"og:description","content":"Book GLIO mobile car care in three steps: choose your cars and a package for each, pick a location and time, then pay securely."}],["$","meta","7",{"property":"og:url","content":"https://markelmallakh-blip.github.io/Glio/booking/"}],["$","meta","8",{"property":"og:image","content":"https://markelmallakh-blip.github.io/Glio/images/hero-van.webp"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Book a Visit | GLIO"}],["$","meta","11",{"name":"twitter:description","content":"Book GLIO mobile car care in three steps: choose your cars and a package for each, pick a location and time, then pay securely."}],["$","meta","12",{"name":"twitter:image","content":"https://markelmallakh-blip.github.io/Glio/images/hero-van.webp"}],["$","link","13",{"rel":"icon","href":"/Glio/icon.svg?icon.2lp1e35f65gyp.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$11"}},"a":"$@18","u":"$@19","b":"vGucRo4q-LfVUpWQ3scnl"}
+f:null
+19:true
+11:300
+11:C
+18:0
+17:"$undefined"
+10:"$undefined"

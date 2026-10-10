@@ -1,0 +1,33 @@
+3:"$Sreact.fragment"
+4:"/Glio/_next/static/chunks/2o_wroj4wc6b2.js"
+5:"/Glio/_next/static/chunks/269hrz3p4dfq3.js"
+6:"/Glio/_next/static/chunks/3tix05wu5b8_3.js"
+7:"/Glio/_next/static/chunks/0tnad-58yu7pu.js"
+8:I[39756,["$4","$5","$6","$7"],"default"]
+9:I[37457,["$4","$5","$6","$7"],"default"]
+e:"/Glio/_next/static/chunks/38c-2l-l0gdih.js"
+f:"/Glio/_next/static/chunks/2lcy-vp3gftpt.js"
+10:"/Glio/_next/static/chunks/3k7r7n4yqr8d-.js"
+11:I[47671,["$4","$5","$6","$7","$e","$f","$10"],"ContactForm"]
+12:I[97367,["$4","$5","$6","$7"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[97367,["$4","$5","$6","$7"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$4","$5","$6","$7"],"$18"]
+1a:I[27201,["$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","section",null,{"className":"bg-ink py-10 text-white md:py-16","children":["$","div",null,{"className":"mx-auto w-full px-4 sm:px-6 lg:px-10 xl:px-15 max-w-(--container-site)","children":["$","div",null,{"className":"relative isolate grid overflow-hidden rounded-[1.25rem] bg-ink-soft md:grid-cols-2","children":[["$","div",null,{"aria-hidden":"true","className":"absolute -top-1/3 -left-1/4 -z-10 size-[44rem] rounded-full bg-[radial-gradient(closest-side,rgb(196_216_71/0.65),transparent)]"}],["$","div",null,{"aria-hidden":"true","className":"absolute -right-1/4 -bottom-1/3 -z-10 size-[36rem] rounded-full bg-[radial-gradient(closest-side,rgb(196_216_71/0.45),transparent)]"}],["$","div",null,{"className":"flex flex-col justify-between gap-12 p-6 md:p-12 md:pr-8","children":[["$","div",null,{"className":"flex flex-col gap-3","children":[["$","h1",null,{"className":"animate-rise text-display font-display","children":"Let’s Get in Touch"}],["$","p",null,{"className":"max-w-sm animate-rise text-white/85 [--delay:120ms]","children":"Our support team is here to help. Contact us for personalized assistance."}]]}],["$","div",null,{"className":"flex flex-col gap-4","children":[["$","h2",null,{"className":"text-3xl font-display","children":"Reach Us"}],["$","ul",null,{"className":"flex flex-wrap gap-x-8 gap-y-3","children":[["$","li",null,{"children":["$","a",null,{"href":"mailto:info@glio.com","className":"flex items-center gap-2 hover:text-lime","children":[["$","svg",null,{"viewBox":"0 0 24 24","width":24,"height":24,"fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"focusable":"false","className":"shrink-0 text-lime","children":[["$","rect",null,{"x":"3","y":"5","width":"18","height":"14","rx":"3"}],["$","path",null,{"d":"m3.5 7 8.5 6 8.5-6"}]]}],"info@glio.com"]}]}],["$","li",null,{"children":["$","a",null,{"href":"tel:+201201010156","className":"flex items-center gap-2 hover:text-lime","children":[["$","svg",null,{"viewBox":"0 0 24 24","width":24,"height":24,"fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"focusable":"false","className":"shrink-0 text-lime","children":["$","path",null,{"d":"M8.6 3.5H6a2 2 0 0 0-2 2.2C4.6 13.4 10.6 19.4 18.3 20a2 2 0 0 0 2.2-2v-2.6a1 1 0 0 0-.8-1l-3-.7a1 1 0 0 0-1 .3l-1.4 1.5a12 12 0 0 1-6-6l1.5-1.4a1 1 0 0 0 .3-1l-.7-3a1 1 0 0 0-1-.8Z"}]}],"+20 12 01010156"]}]}]]}]]}]]}],["$","div",null,{"className":"flex flex-col gap-4 border-t border-white/10 p-6 md:border-t-0 md:border-l md:p-12 md:pl-8","children":[["$","h2",null,{"className":"text-3xl font-display","children":"Send Us A Message"}],["$","p",null,{"className":"text-white/80","children":"Our support team is here to help. Contact us for personalized assistance."}],["$","$L11",null,{}]]}]]}]}]}],[["$","script","script-0",{"src":"/Glio/_next/static/chunks/3k7r7n4yqr8d-.js","async":true}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$c"}}]]
+2:[["children",{"s":"contact","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+1:[["children",{"s":"(site)","c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":20,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#2b2b2b"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Contact Us | GLIO"}],["$","meta","1",{"name":"description","content":"Get in touch with the GLIO support team by phone, email or our contact form."}],["$","meta","2",{"name":"application-name","content":"GLIO"}],["$","meta","3",{"name":"keywords","content":"mobile car wash Cairo,car detailing Cairo,car care at home,GLIO,car polishing Egypt"}],["$","link","4",{"rel":"canonical","href":"https://markelmallakh-blip.github.io/Glio/contact/"}],["$","meta","5",{"property":"og:title","content":"Contact Us | GLIO"}],["$","meta","6",{"property":"og:description","content":"Get in touch with the GLIO support team by phone, email or our contact form."}],["$","meta","7",{"property":"og:url","content":"https://markelmallakh-blip.github.io/Glio/contact/"}],["$","meta","8",{"property":"og:image","content":"https://markelmallakh-blip.github.io/Glio/images/hero-van.webp"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Contact Us | GLIO"}],["$","meta","11",{"name":"twitter:description","content":"Get in touch with the GLIO support team by phone, email or our contact form."}],["$","meta","12",{"name":"twitter:image","content":"https://markelmallakh-blip.github.io/Glio/images/hero-van.webp"}],["$","link","13",{"rel":"icon","href":"/Glio/icon.svg?icon.2lp1e35f65gyp.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1a","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1b","v":null,"s":"$c"}},"a":"$@1c","u":"$@1d","b":"vGucRo4q-LfVUpWQ3scnl"}
+14:null
+1d:true
+c:300
+c:C
+1c:0
+a:"$undefined"
+1b:"$undefined"
+15:"$undefined"
